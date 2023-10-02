@@ -99,8 +99,7 @@ p {
 }
 
 .transparent {
-  color: var(--color--neutral-white);
-  opacity: 0.7;
+  color: hsla(0, 0%, 100%, 0.7);
 }
 
 .white {
